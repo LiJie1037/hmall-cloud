@@ -1,0 +1,11 @@
+08:27:05:214  INFO 18652 --- [main] c.h.service.impl.ItemServiceImplTest     : Starting ItemServiceImplTest using Java 19 on lijie1037 with PID 18652 (started by lijie in E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\hm-service)
+08:27:05:217 DEBUG 18652 --- [main] c.h.service.impl.ItemServiceImplTest     : Running with Spring Boot v2.7.12, Spring v5.3.27
+08:27:05:218  INFO 18652 --- [main] c.h.service.impl.ItemServiceImplTest     : The following 1 profile is active: "dev"
+08:27:06:170  INFO 18652 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+08:27:06:173  INFO 18652 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+08:27:06:198  INFO 18652 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+08:27:09:004  INFO 18652 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+08:27:09:505  INFO 18652 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Documentation plugins bootstrapped
+08:27:09:509  INFO 18652 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+08:27:09:548  INFO 18652 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+08:27:09:775  INFO 18652 --- [main] c.h.service.impl.ItemServiceImplTest     : Started ItemServiceImplTest in 4.929 seconds (JVM running for 5.837)
