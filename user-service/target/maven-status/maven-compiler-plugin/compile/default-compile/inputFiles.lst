@@ -1,0 +1,10 @@
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\user-service\src\main\java\com\hmall\user\domain\vo\UserLoginVO.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\user-service\src\main\java\com\hmall\user\domain\po\User.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\user-service\src\main\java\com\hmall\user\service\IUserService.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\user-service\src\main\java\com\hmall\user\service\impl\UserServiceImpl.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\user-service\src\main\java\com\hmall\user\domain\dto\LoginFormDTO.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\user-service\src\main\java\com\hmall\user\enums\UserStatus.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\user-service\src\main\java\com\hmall\user\UserApplication.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\user-service\src\main\java\com\hmall\user\mapper\UserMapper.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\user-service\src\main\java\com\hmall\user\utils\JwtTool.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\user-service\src\main\java\com\hmall\user\config\JwtProperties.java

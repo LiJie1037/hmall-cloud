@@ -1,0 +1,16 @@
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\mapper\OrderDetailMapper.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\TradeApplication.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\service\impl\OrderLogisticsServiceImpl.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\service\IOrderDetailService.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\domain\vo\OrderVO.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\domain\po\OrderLogistics.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\domain\dto\OrderFormDTO.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\service\IOrderLogisticsService.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\service\IOrderService.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\mapper\OrderLogisticsMapper.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\mapper\OrderMapper.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\service\impl\OrderServiceImpl.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\domain\po\Order.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\domain\po\OrderDetail.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\service\impl\OrderDetailServiceImpl.java
+E:\project_java\SpringCloud微服务—资料\day03-微服务01\资料\hmall\trade-service\src\main\java\com\hmall\trade\controller\OrderController.java
